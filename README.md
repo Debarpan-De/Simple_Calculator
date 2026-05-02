@@ -3,14 +3,14 @@ A basic calculator web app built using HTML, CSS, and JavaScript. It can perform
 
 Features
 
-Addition, Subtraction, Multiplication, Division
-Clear button (AC) to reset input
-Delete button (DEL) to remove last digit
-Supports decimal numbers
-Simple and responsive design
+1. Addition, Subtraction, Multiplication, Division
+2. Clear button (AC) to reset input
+3. Delete button (DEL) to remove last digit
+4. Supports decimal numbers
+5. Simple and responsive design
 
 Technologies Used
 
-HTML
-CSS
-JavaScript
+1. HTML
+2. CSS
+3. JavaScript
